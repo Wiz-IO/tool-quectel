@@ -1,0 +1,11 @@
+{
+  "description": "Quectel Tools", 
+  "name": "tool-quectel", 
+  "system": [
+        "windows",
+        "windows_amd64",
+        "windows_x86"
+  ], 
+  "url": "https://quectel.com", 
+  "version": "1.0.0"
+}
